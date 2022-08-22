@@ -1,7 +1,7 @@
 import './style.css'
 
 document.querySelector('#app').innerHTML = `
-  <div>
+  <div class="flex-child">
     <div class="card">
       <img class="card-image" src="./images/image-qr-code.png" alt="QR code">
       <h1 class="card-title">Improve your front-end<br>skills by building projects</h1>
